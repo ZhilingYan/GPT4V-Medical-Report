@@ -9,3 +9,6 @@ responding to diagnostic medical questions. In addition,
 we delineate seven unique facets of GPT-4V's behavior in medical VQA, highlighting its constraints within this complex arena.
 
 [VQA-PATH report doc](https://docs.google.com/document/d/13TehYpCpiDIBNsxEyJFMW0Y6QADoapTC/edit?usp=drive_link&ouid=117774209307927685249&rtpof=true&sd=true), [PMC-VQA report doc](https://docs.google.com/document/d/11ebg2XlbQIXawm95Z81YuFwTK9VH5W_5/edit?usp=drive_link&ouid=117774209307927685249&rtpof=true&sd=true) and [VQA-RAD report doc](https://docs.google.com/document/d/1tFT-hUTIl862N1bX9fxiCgs9eeu7nJbu/edit?usp=drive_link&ouid=117774209307927685249&rtpof=true&sd=true) are available.
+
+The data evaluated in this project is shown in the table below:
+![image](data_information/Table_1.png)
