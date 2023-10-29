@@ -12,3 +12,9 @@ we delineate seven unique facets of GPT-4V's behavior in medical VQA, highlighti
 
 The data evaluated in this project is shown in the table below:
 ![image](data_information/Table_1.png)
+
+Question type for pathology set:
+![image](data_information/Table_2.png)
+
+Question type for radiology set:
+![image](data_information/Table_3.png)
